@@ -463,15 +463,15 @@ section.form .container {
   color: #ffffff;
 }
 #menu-3 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-3 .close-icon::before,
 #menu-3 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-3 .link,
 #menu-3 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Slabo 27px', serif;
 }
 #menu-3 .link {
@@ -489,22 +489,22 @@ section.form .container {
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #0e0e0e;
+  background: #d6d6d6;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #e7e7e7!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #efefef;
 }
 #menu-3 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-3 .bg-color.transparent.opened .link {
