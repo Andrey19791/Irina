@@ -475,11 +475,11 @@ section.form .container {
   font-family: 'Slabo 27px', serif;
 }
 #menu-3 .link {
-  font-size: 1.35rem;
+  font-size: 0.95rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 1.462rem;
+  font-size: 1.029rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -517,6 +517,10 @@ section.form .container {
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-2 .mbr-section-lead {
+  text-align: left;
+  font-size: 25px;
 }
 #features1-0 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
