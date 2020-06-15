@@ -94,7 +94,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
