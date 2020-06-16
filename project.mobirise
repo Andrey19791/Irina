@@ -139,7 +139,7 @@
             "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-5-1592x897.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
